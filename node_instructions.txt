@@ -1,0 +1,9 @@
+1) Editar o arquivos
+
+2) Rodar: 
+call npm run build
+firebase login
+login: nucleodatascience@gmail.com
+firebase deploy
+firebase logout
+
